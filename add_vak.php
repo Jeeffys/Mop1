@@ -18,7 +18,7 @@ jQuery(document).ready(function(){
 <div class="pageheader">
 <div class="pageicon"><span class="iconfa-briefcase"></span></div>
 <div class="pagetitle">
-<h5>Voeg pallet toe</h5>
+<h5>Pallet toevoegen in vak</h5>
 <h1>Vak nummer: <?php echo $_GET['id']; ?></h1>
 </div>
 </div><!--pageheader-->
